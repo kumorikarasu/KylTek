@@ -1,0 +1,5 @@
+glob:*.svn
+glob:Debug
+glob:*.user
+glob:KylTek.ncb
+glob:Smith Final Project
